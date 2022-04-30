@@ -26,6 +26,9 @@ os seus endpoints que já estavam funcionando. Foi desenvolvido também níveis 
 -Django Rest Framework
 -Python-decouple
 
+-Front
+-ReactJS
+
 
 # Instruções para compilar, testar e rodar o projeto
 
