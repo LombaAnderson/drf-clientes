@@ -13,7 +13,7 @@ os seus endpoints que já estavam funcionando. Foi desenvolvido também níveis 
 <img src="https://user-images.githubusercontent.com/60937513/166110204-00fe4bca-8983-4207-9fb3-fc973b81af68.png" width="700" />
 </div>
 
-## Print de exemplo da versão 2 com funcionalidade a mais(celular)
+## Print de exemplo da versão 2 com funcionalidades a mais.
 <div align="center">
 <img src="https://user-images.githubusercontent.com/60937513/166110473-6c593031-6602-4383-9140-f9e186099e1f.png" width="700" />
 </div>
